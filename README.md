@@ -26,3 +26,9 @@ go-project-structure/
 ├── go.mod
 ├── go.sum
 └── README.md
+
+## Getting Started
+
+1. Clone this repository.
+2. Run go mod tidy to install dependencies.
+3. Start building your application inside cmd/app and internal/.
