@@ -11,7 +11,7 @@ This repository provides a clean and scalable folder structure for Go projects. 
 
 ## Folder Layout
 
-```text
+```
 go-project-structure/
 ├── cmd/              # Entry points for applications
 │   └── app/          # Main application binary
@@ -26,6 +26,7 @@ go-project-structure/
 ├── go.mod
 ├── go.sum
 └── README.md
+```
 
 ## Getting Started
 
