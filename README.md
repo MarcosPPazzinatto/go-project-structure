@@ -33,3 +33,6 @@ go-project-structure/
 1. Clone this repository.
 2. Run go mod tidy to install dependencies.
 3. Start building your application inside cmd/app and internal/.
+
+## License  
+This project is licensed under the MIT License.
